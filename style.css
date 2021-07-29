@@ -1,0 +1,237 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Bebas+Neue&display=swap');
+
+
+
+*
+{
+    padding:0;
+    margin:0;
+}
+.sun
+{
+    display: flex;
+    justify-content: flex-start;
+    background-color:#14E6E1;
+    color: white;
+    margin-top: 1rem;
+    font-weight: bold;
+    font-family: 'Dancing Script', cursive;
+}
+.rightend
+{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #14E6E1;
+    color: white;
+    margin-top: 1rem;
+font-size: 15px;
+}
+.contact
+{
+    background-color: white;
+    color: black;
+    border-radius: 20px;
+  
+}
+.heading
+{
+    display: flex;
+    justify-content:center;
+    background-color:#14E6E1 ;
+    color: white;
+    text-align: center;
+    
+}
+.head
+{
+    margin-top: 4rem;
+    font-family: 'Anton', sans-serif;
+
+}
+.firstimage
+{
+    display: flex;
+    justify-content: center;
+    background-color: #14E6E1;
+    
+}
+.imageorange
+{
+    margin-top: 4rem;
+    height:50vh;
+    border-radius: 2rem;;
+}
+.para
+{
+    margin-top: 2rem;
+    font-family :'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 3rem;
+}
+.pa
+{
+    font-family :'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 1.2rem;
+
+}
+.content
+{
+    text-align: center;
+}
+.col1
+{
+    margin-top: 2rem;
+     
+}
+.col2 
+{
+    background-color: yellow;
+}
+.col3
+{
+    background-color: palevioletred;
+}
+.imageegg
+{
+    
+    height: 50vh;
+    
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}  
+
+.imageglass
+{
+   
+    height: 50vh;
+    margin-left: 2rem;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}  
+.col4
+{
+    margin-top: 2rem;
+      
+}
+.imagecherry
+{
+    height: 50vh;
+    margin-left: 2rem;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.imageorangeleaves
+{
+    height: 50vh;
+    margin-left: 2rem;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.col5
+{
+    background-color: #46EECC;
+}
+.col6
+{
+    background-color: #A0F89A;
+}
+.middlepara
+{
+   text-align: center;
+}
+.clients
+{
+    margin-top: 4rem;
+    font-size: 2rem;
+   
+}.clienthead
+{
+    display: flex;
+    justify-content:center;
+    background-color:white ;
+    text-align: center;
+    opacity: 0.5;
+}
+
+.clientrow
+{
+    margin-top: 4rem;
+}
+.clientimages
+{
+    height:20vh;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+ border-radius: 50%;    
+}
+.clientpara
+{
+    margin-top: 2rem;
+   text-align: center;
+   font-family: 'Work Sans', sans-serif;
+   
+}
+.opa
+{
+    opacity: 0.5;
+    text-align: center;
+    font-family: 'Work Sans', sans-serif;
+}
+.fourimagerow
+{
+    margin-top: 4rem;
+    background-color:#CD3CD9;
+}
+.fourimage
+{
+height: 50vh;
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+.endpart
+{
+
+    background-color: #97B5DD;
+    display: flex;
+    justify-content: center;
+   
+}
+.sunend
+{
+    margin-top: 3rem;    
+    font-family: 'Dancing Script', cursive;
+    opacity: 0.5;
+    font-weight: bold;
+}
+.end
+{
+    display: flex;
+    justify-content: space-evenly;
+      
+    font-family: 'Times New Roman', Times, serif;
+    background-color:#97B5DD;
+}
+.about
+{
+    margin-top: 3rem;
+    opacity: 0.5;
+}
+.socialmedia
+{
+    background-color:#97B5DD;
+    display: flex;
+    justify-content: center;  
+}
+.social{
+    margin-left: 2rem;
+    margin-top: 3rem;
+    margin-bottom: 4rem;
+}
